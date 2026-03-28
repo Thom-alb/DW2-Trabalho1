@@ -20,8 +20,6 @@ const cupom = [
         porValor: true,
         valorDescontoReais: 20,
         tipoDeDesconto: [valeRefeicao],
-
-
     }
 ]
 const lojas =[
@@ -82,5 +80,3 @@ function promoMap(lojas){
     });
 }
     
-
-console.log(promoMap(lojas))
