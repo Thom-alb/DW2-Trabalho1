@@ -166,5 +166,3 @@ function userMaisLike(tweets) {
     });
     return maior;
 }
-
-console.log(userMaisLike(tweets))
