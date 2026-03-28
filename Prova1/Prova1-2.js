@@ -8,7 +8,6 @@ const endereco = {
     cep: "03109-001",
     pais: "Brasil"
 }
-
 const anuncio = {
     titulo: "Cascada",
     feitopor: "rebo",
@@ -56,5 +55,3 @@ function menorCupom(tickets) {
     });
     return menor;
 }
-
-console.log(menorCupom(tickets))
